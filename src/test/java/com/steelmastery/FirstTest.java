@@ -26,7 +26,7 @@ public class FirstTest {
         driver = new FirefoxDriver();
 //        driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(100, TimeUnit.SECONDS);
-        driver.get("https://local.steel-mastery.com/");
+        driver.get("https://local.steel-mastery.com/account/account");
     }
     @Test
     public void mainPage() {
