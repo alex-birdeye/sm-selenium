@@ -1,4 +1,4 @@
-package com.steelmastery;
+package com.steelmastery.account;
 
 import org.junit.AfterClass;
 import org.junit.Assert;
